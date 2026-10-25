@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /catalog-editor.html
+Sitemap: https://www.runatechs.com/sitemap.xml

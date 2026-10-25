@@ -1,0 +1,98 @@
+[
+  {
+    "id": "cook-01",
+    "name": "Freestanding gas cooker",
+    "category": "Electronics",
+    "images": [
+      "/assets/product-1.webp",
+      "/assets/product-13.webp"
+    ],
+    "condition": "Used \u2014 confirm specification",
+    "price": null,
+    "description": "View the supplied product photos and contact us to confirm dimensions, availability, specification and delivery cost.",
+    "featured": true,
+    "available": true
+  },
+  {
+    "id": "dine-01",
+    "name": "Contemporary dining set",
+    "category": "Furniture",
+    "images": [
+      "/assets/product-2.webp"
+    ],
+    "condition": "Confirm condition",
+    "price": null,
+    "description": "View the supplied product photos and contact us to confirm dimensions, availability, specification and delivery cost.",
+    "featured": true,
+    "available": true
+  },
+  {
+    "id": "jewel-01",
+    "name": "Gold-tone jewellery collection",
+    "category": "Fashion",
+    "images": [
+      "/assets/product-4.webp",
+      "/assets/product-6.webp",
+      "/assets/product-8.webp"
+    ],
+    "condition": "Confirm material and condition",
+    "price": null,
+    "description": "View the supplied product photos and contact us to confirm dimensions, availability, specification and delivery cost.",
+    "featured": true,
+    "available": true
+  },
+  {
+    "id": "power-01",
+    "name": "Portable generator",
+    "category": "Electronics",
+    "images": [
+      "/assets/product-11.webp",
+      "/assets/product-22.webp"
+    ],
+    "condition": "Confirm specification and condition",
+    "price": null,
+    "description": "View the supplied product photos and contact us to confirm dimensions, availability, specification and delivery cost.",
+    "featured": true,
+    "available": true
+  },
+  {
+    "id": "cook-02",
+    "name": "Stainless steel gas cooker",
+    "category": "Electronics",
+    "images": [
+      "/assets/product-12.webp",
+      "/assets/product-26.webp"
+    ],
+    "condition": "Used \u2014 confirm specification",
+    "price": null,
+    "description": "View the supplied product photos and contact us to confirm dimensions, availability, specification and delivery cost.",
+    "featured": true,
+    "available": true
+  },
+  {
+    "id": "cook-03",
+    "name": "Compact freestanding cooker",
+    "category": "Electronics",
+    "images": [
+      "/assets/product-19.webp"
+    ],
+    "condition": "Used \u2014 confirm specification",
+    "price": null,
+    "description": "View the supplied product photos and contact us to confirm dimensions, availability, specification and delivery cost.",
+    "featured": true,
+    "available": true
+  },
+  {
+    "id": "jewel-02",
+    "name": "Statement necklace set",
+    "category": "Fashion",
+    "images": [
+      "/assets/product-27.webp"
+    ],
+    "condition": "Confirm material and condition",
+    "price": null,
+    "description": "View the supplied product photos and contact us to confirm dimensions, availability, specification and delivery cost.",
+    "featured": true,
+    "available": true
+  }
+]
